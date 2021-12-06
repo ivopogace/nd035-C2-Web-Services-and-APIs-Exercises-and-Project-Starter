@@ -1,0 +1,30 @@
+{
+  "condition": "NEW",
+  "createdAt": "2021-12-02T17:18:27.871Z",
+  "details": {
+    "body": "string",
+    "engine": "string",
+    "externalColor": "string",
+    "fuelType": "string",
+    "manufacturer": {
+      "code": 103,
+      "name": "BMW"
+    },
+    "mileage": 0,
+    "model": "BMW",
+    "modelYear": 2021,
+    "numberOfDoors": 4,
+    "productionYear": 2021
+  },
+  "id": 0,
+  "location": {
+    "address": "string",
+    "city": "string",
+    "lat": 0,
+    "lon": 0,
+    "state": "string",
+    "zip": "string"
+  },
+  "modifiedAt": "2021-12-02T17:18:27.872Z",
+  "price": "string"
+}
